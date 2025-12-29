@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Jha</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Software developer from India</h3>
 
 <img align="right" alt="programming" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 
